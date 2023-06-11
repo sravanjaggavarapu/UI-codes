@@ -1,0 +1,11 @@
+fieldset{
+    color: #8a2be2;
+    background-color: beige;
+    border: 2px solid grey;
+    width: 60%;
+    
+}
+legend{
+    color: aqua;
+    background-color: darkblue;
+}

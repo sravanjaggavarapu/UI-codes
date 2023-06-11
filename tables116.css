@@ -1,0 +1,33 @@
+h1{
+    color: white;
+    text-align: center;
+    border: 1px solid grey;
+    width: 50%;
+    background-color: red;
+    display: inline-block;
+    margin: 50px;
+    padding: 20px;
+}
+
+
+
+p{
+    
+    background-color: white;
+    color: black;
+    padding: 20px;
+    margin: 20px;
+    text-align: justify;
+    width: 15%;
+
+
+}
+div{
+    border: 1px solid grey;
+    width: 25%;
+    margin: 5px;
+    padding: 10px;
+    display: inline-block;
+    text-align: center;
+
+}
